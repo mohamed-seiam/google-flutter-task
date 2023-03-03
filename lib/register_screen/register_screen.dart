@@ -200,17 +200,6 @@ class _RegisterScreenState extends State<RegisterScreen> {
               Padding(
                 padding: const EdgeInsets.all(10.0),
                 child: CustomButton(
-                  text: 'Register',
-                  color: Colors.purple,
-                  colorText: Colors.white,
-                ),
-              ),
-              const SizedBox(
-                height: 1.0,
-              ),
-              Padding(
-                padding: const EdgeInsets.all(10.0),
-                child: CustomButton(
                   text: 'Login',
                   color: Colors.white,
                   colorText: Colors.purple,
